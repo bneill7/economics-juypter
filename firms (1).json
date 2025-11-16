@@ -1,0 +1,459 @@
+[
+    {
+        "py/object": "__main__.Firm",
+        "name": "Maize Farms",
+        "inGoods": {},
+        "outGoods": {
+            "grain": 20
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Millet Farms",
+        "inGoods": {},
+        "outGoods": {
+            "grain": 20
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Wheat Farms",
+        "inGoods": {},
+        "outGoods": {
+            "grain": 20
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Rye Farms",
+        "inGoods": {},
+        "outGoods": {
+            "grain": 20
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Rice Farms",
+        "inGoods": {},
+        "outGoods": {
+            "grain": 35
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Coal Mines",
+        "inGoods": {},
+        "outGoods": {
+            "coal": 25
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Iron Mines",
+        "inGoods": {},
+        "outGoods": {
+            "iron": 20
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Lead Mines",
+        "inGoods": {},
+        "outGoods": {
+            "lead": 20
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Sulfur Mines",
+        "inGoods": {},
+        "outGoods": {
+            "sulfur": 20
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Gold Fields",
+        "inGoods": {},
+        "outGoods": {
+            "gold": 10
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Gold Mines",
+        "inGoods": {},
+        "outGoods": {
+            "gold": 8
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Logging Camps",
+        "inGoods": {},
+        "outGoods": {
+            "wood": 100
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Fishing Wharves",
+        "inGoods": {},
+        "outGoods": {
+            "fish": 25
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Whaling Stations",
+        "inGoods": {},
+        "outGoods": {
+            "meat": 5,
+            "oil": 10
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Livestock Ranches",
+        "inGoods": {},
+        "outGoods": {
+            "meat": 10
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Paper Mills",
+        "inGoods": {
+            "wood": 30
+        },
+        "outGoods": {
+            "paper": 40
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Rubber Plantations",
+        "inGoods": {},
+        "outGoods": {
+            "rubber": 30
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Oil Rigs",
+        "inGoods": {},
+        "outGoods": {
+            "oil": 40
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Fertilizer Plants",
+        "inGoods": {
+            "sulfur": 30,
+            "iron": 10
+        },
+        "outGoods": {
+            "fertilizer": 90
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Synthetics Plants",
+        "inGoods": {
+            "sulfur": 20,
+            "fertilizer": 30
+        },
+        "outGoods": {
+            "dye": 80
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Textile Mills",
+        "inGoods": {
+            "fabric": 65
+        },
+        "outGoods": {
+            "clothes": 30
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Food Industries",
+        "inGoods": {
+            "grain": 20,
+            "meat": 20
+        },
+        "outGoods": {
+            "groceries": 40
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Furniture Manufacturies",
+        "inGoods": {
+            "wood": 30,
+            "fabric": 5
+        },
+        "outGoods": {
+            "furniture": 30
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Glassworks",
+        "inGoods": {
+            "wood": 25
+        },
+        "outGoods": {
+            "glass": 30
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Steel Mills",
+        "inGoods": {
+            "iron": 65,
+            "coal": 30
+        },
+        "outGoods": {
+            "steel": 80
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Tooling Workshops",
+        "inGoods": {
+            "iron": 10,
+            "coal": 5
+        },
+        "outGoods": {
+            "tools": 35
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Motor Industries",
+        "inGoods": {
+            "steel": 60,
+            "oil": 10,
+            "tools": 5
+        },
+        "outGoods": {
+            "automobiles": 30
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Munition Plants",
+        "inGoods": {
+            "iron": 15,
+            "coal": 10
+        },
+        "outGoods": {
+            "munitions": 60
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Arms Industries",
+        "inGoods": {
+            "iron": 20,
+            "tools": 10
+        },
+        "outGoods": {
+            "firearms": 35
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Artillery Foundry",
+        "inGoods": {
+            "iron": 30,
+            "coal": 10
+        },
+        "outGoods": {
+            "artillery": 25
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Shipyards",
+        "inGoods": {
+            "wood": 60,
+            "iron": 20,
+            "coal": 10
+        },
+        "outGoods": {
+            "clippers": 70
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Bakeries",
+        "inGoods": {
+            "grain": 20
+        },
+        "outGoods": {
+            "groceries": 30
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Explosives Factory",
+        "inGoods": {
+            "sulfur": 30,
+            "fertilizer": 10
+        },
+        "outGoods": {
+            "explosives": 50
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Glass Bottle Works",
+        "inGoods": {
+            "glass": 20
+        },
+        "outGoods": {
+            "bottles": 40
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Textile Handicraft",
+        "inGoods": {
+            "fabric": 30
+        },
+        "outGoods": {
+            "clothes": 20
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Electrics Industries",
+        "inGoods": {
+            "steel": 20,
+            "tools": 5
+        },
+        "outGoods": {
+            "telephones": 30
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Automotive Industries",
+        "inGoods": {
+            "steel": 80,
+            "oil": 20,
+            "tools": 10
+        },
+        "outGoods": {
+            "automobiles": 120
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Canneries",
+        "inGoods": {
+            "meat": 20,
+            "iron": 10
+        },
+        "outGoods": {
+            "groceries": 30
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Power Plants",
+        "inGoods": {
+            "coal": 40
+        },
+        "outGoods": {
+            "electricity": 100
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Distilleries",
+        "inGoods": {
+            "grain": 10
+        },
+        "outGoods": {
+            "liquor": 25
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Glass Bottle Works Extra",
+        "inGoods": {
+            "glass": 15
+        },
+        "outGoods": {
+            "bottles": 30
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Cement Works",
+        "inGoods": {
+            "stone": 40
+        },
+        "outGoods": {
+            "cement": 50
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Civil Construction Sector",
+        "inGoods": {
+            "cement": 30,
+            "wood": 20
+        },
+        "outGoods": {
+            "construction": 60
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Battery Works",
+        "inGoods": {
+            "chemical": 20
+        },
+        "outGoods": {
+            "batteries": 40
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Ceramics Works",
+        "inGoods": {
+            "clay": 20
+        },
+        "outGoods": {
+            "ceramics": 35
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Boatyards (light)",
+        "inGoods": {
+            "wood": 40,
+            "clippers": 5
+        },
+        "outGoods": {
+            "small_ships": 40
+        }
+    },
+    {
+        "py/object": "__main__.Firm",
+        "name": "Brewery",
+        "inGoods": {
+            "grain": 15
+        },
+        "outGoods": {
+            "beer": 30
+        }
+    }
+]
